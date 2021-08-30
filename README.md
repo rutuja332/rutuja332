@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rutuja332
 - 👀 I’m interested in Web development , machine learning , deep learning and entrepreneurship.
-- 🌱 I’m currently learning machine learning and deep learning.
+- 🌱 I’m currently learning machine learning,deep learning ,bootstrap.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me .You can reach  me through .linkdin.
 
